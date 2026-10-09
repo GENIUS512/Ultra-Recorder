@@ -16,7 +16,7 @@ Zero lag. Zero stutter. Pure performance.
 
 
 https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_INSTALLER-7C5CFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0B0B10
-https://img.shields.io/github/stars/your-user/ultra-recorder?style=for-the-badge&logo=github&color=4F8CFF&labelColor=0B0B10
+https://img.shields.io/github/stars/GENIUS512/ultra-recorder?style=for-the-badge&logo=github&color=4F8CFF&labelColor=0B0B10
 https://img.shields.io/badge/LICENSE-MIT-2ED47A?style=for-the-badge&labelColor=0B0B10
 
 
