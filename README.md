@@ -286,7 +286,7 @@ PyQt6 · FFmpeg · PyAudioWPatch · OpenCV · NumPy · Nuitka
 </div>
 bash
 # Clone
-git clone https://github.com/your-user/ultra-recorder.git
+git clone https://github.com/GENIUS512/ultra-recorder.git
 cd ultra-recorder
 
 # Install dependencies
